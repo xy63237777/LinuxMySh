@@ -1,9 +1,0 @@
-<project>
-  <component name="ExternalProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_study.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_study.main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_study.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_study.test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_study.test.iml" />
-    </modules>
-  </component>
-</project>
