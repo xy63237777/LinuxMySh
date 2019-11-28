@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="go-build-configuration" />
+    <converter id="go-build-tags-settings" />
+    <converter id="go-project-model" />
+    <converter id="go-run-file-configuration" />
+    <converter id="goland-project-model" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/thesevensky/go/src/demo/.idea/demo.iml" timestamp="1572403248000" />
+    <file path="/home/thesevensky/go/src/demo/.idea/misc.xml" timestamp="1572403248000" />
+    <file path="/home/thesevensky/go/src/demo/.idea/modules.xml" timestamp="1572403249000" />
+    <file path="/home/thesevensky/go/src/demo/.idea/thriftCompiler.xml" timestamp="1572403249000" />
+    <file path="/home/thesevensky/go/src/demo/.idea/workspace.xml" timestamp="1572683024000" />
+  </project-files>
+</conversion>
+

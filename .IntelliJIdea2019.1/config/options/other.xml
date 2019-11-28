@@ -1,0 +1,42 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="160-196-35-255,,,209-154-102-255,,,57-33-58-255,,,129-140-161-255,,,77-161-143-255,,,151-161-107-255,,,102-161-113-255,,,161-71-159-255,,,161-85-135-255,,,65-41-161-255,,,44-111-161-255,,,38-134-161-255,,,233-172-126-255,,,203-233-152-255,,,82-137-233-255,,,141-233-165-255,,,233-215-226-255,,,142-158-233-255,,,233-177-194-255,,,233-114-91-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108932465" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.15923567" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="maven&#10;ByteBuffer&#10;ByteBuf&#10;gradle" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108932465" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="Code&#10;Material Theme UI&#10;CodeGlance&#10;go&#10;Material" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.191" value="13" />
+    <property name="file.chooser.recent.files" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64&#10;/home/thesevensky/sta_Pro/stasdp&#10;/home/thesevensky/code/JAVA/stasdp&#10;/usr/local/apache-maven-3.6.1/conf/settings.xml&#10;/home/thesevensky/code/JAVA/hello&#10;/home/thesevensky/code/JAVA/ttms-master/movies-manage-system&#10;/home/thesevensky/code/JAVA/netty_study/src/main/java/com/thesevensky/proto&#10;/opt/gradle/gradle-4.9&#10;/usr/local/apache-maven-3.6.1/repository&#10;/usr/local/apache-maven-3.6.1&#10;/home/thesevensky/code/JAVA&#10;/home/thesevensky/code" />
+    <property name="file.gist.reindex.count" value="1521" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2019.1-3" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last.used.gradle.home" value="/opt/gradle/gradle-4.9" />
+    <property name="lastTip" value="2" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="selected.color.option.type" value="JAVA_STRING" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>

@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="233-74-195-255,,,198-121-221-255,,,152-195-121-255,,,169-183-198-255,,,97-174-239-255,,,209-154-102-255,,,118-154-165-255,,,229-193-124-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GO_IDE_DEFAULT_PROJECT_PATH" value="$USER_HOME$/go/src" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="TrendingPluginsSearchHistory" value="go&#10;CodeGlance&#10;Material Theme&#10;Material Theme UI" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.191" value="15" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/go/src/filestore&#10;/home/thesevensky/go/src/filerstore&#10;/home/thesevensky/os_homework/CPro_1&#10;/home/thesevensky/code/golang/jvmgo-book&#10;/home/thesevensky/go/src/github.com/bytom&#10;/home/thesevensky/go/src/demo&#10;/home/thesevensky/go/src/CPro&#10;/home/thesevensky/go/src/streamViewPro&#10;/home/thesevensky/go/src/newstudy&#10;/home/thesevensky/gocode/src/chitchat&#10;/home/thesevensky/gocode/src&#10;/home/thesevensky/code/golang/chitchat&#10;/home/thesevensky/code/golang&#10;/home/thesevensky/go&#10;/home/thesevensky/gocode&#10;/home/thesevensky/gocode/src/testWeb&#10;/home/thesevensky/code/golang/mystudy&#10;/home/thesevensky/Desktop&#10;/home/thesevensky/code/golang/hello" />
+    <property name="file.gist.reindex.count" value="152" />
+    <property name="fileTypeChangedCounter" value="36" />
+    <property name="go.enable.default.tooltip.fixes" value="true" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.init.mod.file.type" value="true" />
+    <property name="go.last.update.timestamp" value="1574414245344" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="odps.studio.lastUpdateCheckTimestamp" value="1574399786732" />
+    <property name="param.hints.settings.last.edited.language" value="go" />
+    <property name="selected.color.option.type" value="GO_FUNCTION_PARAMETER" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>

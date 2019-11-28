@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="e19ae9" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="userId" value="-5f0a969b:16c2674a344:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>

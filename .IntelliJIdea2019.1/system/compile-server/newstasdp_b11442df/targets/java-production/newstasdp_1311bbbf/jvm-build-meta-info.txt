@@ -1,0 +1,17 @@
+apiVersionString=1.3
+bytecodeVersionMajor=1
+bytecodeVersionMinor=0
+bytecodeVersionPatch=3
+compilerBuildVersion=1.3.21
+coroutinesEnable=false
+coroutinesError=false
+coroutinesVersion=0
+coroutinesWarn=false
+isEAP=false
+languageVersionString=1.3
+metadataVersionMajor=1
+metadataVersionMinor=1
+metadataVersionPatch=13
+multiplatformEnable=false
+multiplatformVersion=0
+ownVersion=0

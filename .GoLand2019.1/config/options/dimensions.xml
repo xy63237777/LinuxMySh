@@ -1,0 +1,54 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="475" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2335" y="196" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2657" y="283" />
+    <location key="#Inspections.1920.0.1920.1080" x="2475" y="185" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2580" y="310" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2338" y="181" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.1920.0.1920.1080" x="2605" y="427" />
+    <location key="#go_build_main.go.1920.0.1920.1080" x="2597" y="121" />
+    <location key="#SQL_Dialects.1920.0.1920.1080" x="2475" y="185" />
+    <location key="#GOROOT.1920.0.1920.1080" x="2535" y="183" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080" x="2698" y="934" />
+    <location key="search.everywhere.popup.1920.0.1920.1080" x="2543" y="239" />
+    <location key="find.popup.1920.0.1920.1080" x="2440" y="52" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="685" y="444" />
+    <location key="SettingsEditor.0.0.1920.1080" x="453" y="296" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.1920.0.1920.1080" x="2537" y="138" />
+    <location key="run.anything.popup.1920.0.1920.1080" x="2544" y="229" />
+    <location key="#go_build_filestore.1920.0.1920.1080" x="2597" y="101" />
+    <location key="#go_build_filestore/service/upload.1920.0.1920.1080" x="2597" y="101" />
+    <location key="#go_build_main.go_(1).1920.0.1920.1080" x="2597" y="105" />
+    <size key="SettingsEditor.1920.0.1920.1080" width="1060" height="719" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="424" height="521" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1866" height="303" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1866" height="303" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1866" height="303" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1866" height="303" />
+    <size key="#Inspections.1920.0.1920.1080" width="800" height="680" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" width="686" height="433" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.1920.0.1920.1080" width="540" height="195" />
+    <size key="#go_build_main.go.1920.0.1920.1080" width="555" height="808" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" width="800" height="680" />
+    <size key="#SQL_Dialects.1920.0.1920.1080" width="800" height="680" />
+    <size key="#GOROOT.1920.0.1920.1080" width="800" height="680" />
+    <size key="ProcessPopupWindow.1920.0.1920.1080" width="400" height="153" />
+    <size key="search.everywhere.popup.1920.0.1920.1080" width="672" height="678" />
+    <size key="find.popup.1920.0.1920.1080" width="880" height="963" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="195" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1866" height="104" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1866" height="104" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1866" height="104" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1866" height="104" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1866" height="364" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1866" height="364" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1866" height="364" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1866" height="364" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1060" height="719" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.1920.0.1920.1080" width="676" height="741" />
+    <size key="#go_build_filestore.1920.0.1920.1080" width="555" height="815" />
+    <size key="#go_build_filestore/service/upload.1920.0.1920.1080" width="555" height="815" />
+    <size key="#go_build_main.go_(1).1920.0.1920.1080" width="554" height="811" />
+  </component>
+</application>

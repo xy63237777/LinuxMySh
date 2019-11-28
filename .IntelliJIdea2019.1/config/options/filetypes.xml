@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Student.proto" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid9368" type="PLAIN_TEXT" />
+      <mapping pattern="Student" type="PROTO" />
+      <mapping pattern="member_form.sql" type="yarn.lock" />
+    </extensionMap>
+  </component>
+</application>
