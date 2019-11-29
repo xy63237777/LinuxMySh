@@ -1,0 +1,14 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1018
+State=AAAA/wAAAAD9AAAAAAAAAmsAAAO+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=619
+
+[Recent Files]
+File1[$e]=$HOME/.config/fcitx/conf/fcitx-pinyin.config
+File2[$e]=$HOME/.config/fcitx/config
+Name1[$e]=fcitx-pinyin.config
+Name2[$e]=config

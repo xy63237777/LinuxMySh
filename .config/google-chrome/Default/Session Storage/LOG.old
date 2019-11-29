@@ -1,0 +1,6 @@
+2019/11/28-21:58:28.567 7cf Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/28-21:58:28.568 7cf Recovering log #28
+2019/11/28-21:58:28.905 7cf Reusing old log Session Storage/000028.log 
+2019/11/28-21:59:49.380 7ce Level-0 table #33: started
+2019/11/28-21:59:49.760 7ce Level-0 table #33: 34142 bytes OK
+2019/11/28-21:59:49.949 7ce Delete type=0 #28

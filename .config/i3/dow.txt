@@ -1,0 +1,5 @@
+yay -S volumeicon
+yay -S albert
+yay -S mate-power-manager
+ysy -S copyq
+yay -S network-manager-applet 

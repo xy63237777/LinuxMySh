@@ -1,0 +1,15 @@
+[DownloadDialog Settings]
+Height 1080=496
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=TIM图片20191125135112.jpg,file:$HOME/remake2/Pictures/TIM图片20191125135112.jpg
+Recent URLs[$e]=file:$HOME/remake2/Pictures/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=1017
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA6sAAAP5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=939

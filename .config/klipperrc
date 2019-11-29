@@ -1,0 +1,13 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAasAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAsQAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=440
+Width 1920=544
+
+[General]
+AutoStart=false
+IgnoreImages=false
+Number of Actions=0
+SelectionTextOnly=false
+Version=5.17.3
