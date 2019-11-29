@@ -1,2 +1,0 @@
-yay -S volumeicon
-yay -S albert
